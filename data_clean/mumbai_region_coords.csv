@@ -1,0 +1,229 @@
+city,region,latitude,longitude
+Mumbai,Andheri West,19.1172495,72.833968
+Mumbai,Naigaon East,19.0138034,72.8463224
+Mumbai,Borivali West,19.2298129,72.8471376
+Mumbai,Panvel,19.0463363,72.9088873
+Mumbai,Mira Road East,19.2948873,72.8678432
+Mumbai,Parel,19.0084268,72.842505
+Mumbai,Boisar,19.1903507,72.8855597
+Mumbai,Santacruz East,19.0781806,72.8677752
+Mumbai,Badlapur East,19.1532664,73.2412085
+Mumbai,Fort,18.9332665,72.8345146
+Mumbai,Badlapur West,19.1621666,73.2557173
+Mumbai,Khopoli,18.7963261,73.2884961
+Mumbai,Chembur,19.054818,72.8979713
+Mumbai,Jogeshwari West,19.136394,72.8373817
+Mumbai,Vasai,19.3508311,72.8938078
+Mumbai,Kalamboli,19.0235062,73.1106092
+Mumbai,Powai,19.1187195,72.9073476
+Mumbai,Ghansoli,19.1163797,73.0069928
+Mumbai,Thane West,19.042855,73.0226449
+Mumbai,Vikhroli,19.1114795,72.928021
+Mumbai,Bhiwandi,19.3025562,73.0588072
+Mumbai,Airoli,19.1585147,72.9994019
+Mumbai,Ambernath West,19.0781806,72.8677752
+Mumbai,Borivali East,19.2267228,72.8619328
+Mumbai,Virar,19.5091723,72.8458201
+Mumbai,Kharghar,19.025773,73.0591845
+Mumbai,Ulwe,18.9707794,73.0215336
+Mumbai,Kamothe,19.0164338,73.0806552
+Mumbai,Jogeshwari East,19.1429467,72.8551559
+Mumbai,Mulund West,19.1719717,72.9511956
+Mumbai,Palghar,19.3183904,72.8991697
+Mumbai,Goregaon West,19.1633281,72.8411995
+Mumbai,Taloja,19.0754826,73.0921912
+Mumbai,Rasayani,18.8978821,73.1803608
+Mumbai,Ghatkopar East,19.0833438,72.9123246
+Mumbai,Ulhasnagar,19.2236329,73.1671515
+Mumbai,Dombivali,19.1967698,73.0747522
+Mumbai,Kewale,19.0781806,72.8677752
+Mumbai,Nala Sopara,19.4203577,72.8194857
+Mumbai,Goregaon East,19.1692623,72.8552548
+Mumbai,Kandivali East,19.2051958,72.8626165
+Mumbai,Kurla,19.0655397,72.8795636
+Mumbai,Andheri East,19.1158835,72.854202
+Mumbai,Dahisar,19.2493572,72.8596302
+Mumbai,Karanjade,19.0781806,72.8677752
+Mumbai,Mahim,19.0423145,72.8398344
+Mumbai,Vashi,19.0632481,72.9987966
+Mumbai,Malad West,19.1852851,72.8358611
+Mumbai,Girgaon,18.9543165,72.8179082
+Mumbai,Dadar West,19.0238887,72.8382236
+Mumbai,Bandra West,19.0583358,72.8302669
+Mumbai,Kandivali West,19.2055321,72.8399273
+Mumbai,Kalyan West,19.0713588,72.8303908
+Mumbai,Neral,19.0274308,73.3184369
+Mumbai,Kalyan East,19.0511604,72.9293364
+Mumbai,Karjat,18.9769108,73.1386442
+Mumbai,Ghatkopar West,19.0897439,72.9048035
+Mumbai,Dronagiri,18.8813327,72.9647315
+Mumbai,Mulund East,19.1704719,72.9610447
+Mumbai,Navade,19.053846,73.1030296
+Mumbai,Ambivali,19.1331195,72.8251336
+Mumbai,Agripada,18.97504,72.8250555
+Mumbai,Owale,19.0781806,72.8677752
+Mumbai,Ville Parle East,19.0781806,72.8677752
+Mumbai,Kalwa,19.1960909,72.9876602
+Mumbai,Khar,19.0682411,72.8400412
+Mumbai,Santacruz West,19.0844004,72.8372899
+Mumbai,Nerul,19.0335938,73.018164
+Mumbai,Kanjurmarg,19.124102,72.9385562
+Mumbai,Vangani,19.0943323,73.3008946
+Mumbai,Bhayandar East,19.3101847,72.8526988
+Mumbai,Seawoods,19.0213683,73.018939
+Mumbai,Sewri,18.9987796,72.8544218
+Mumbai,Ambernath East,19.0781806,72.8677752
+Mumbai,Nilje Gaon,19.0781806,72.8677752
+Mumbai,Prabhadevi,19.0074717,72.8358965
+Mumbai,Matunga,19.0274356,72.8501467
+Mumbai,Lower Parel,18.99568,72.8302756
+Mumbai,Titwala,19.2948464,73.2051012
+Mumbai,Shil Phata,19.1108804,73.0031362
+Mumbai,Koper Khairane,19.0781806,72.8677752
+Mumbai,Napeansea Road,19.0781806,72.8677752
+Mumbai,Bhandup West,19.1462636,72.9339461
+Mumbai,Koproli,18.8830094,72.9895799
+Mumbai,Anjurdive,19.0781806,72.8677752
+Mumbai,Wadala,19.0269192,72.8759337
+Mumbai,Sion,19.0465213,72.8632834
+Mumbai,Taloje,19.079148,73.0878581
+Mumbai,Cuffe Parade,18.9129204,72.8201377
+Mumbai,Bhandup East,19.1378308,72.9361964
+Mumbai,Byculla,18.9766219,72.8327936
+Mumbai,Tardeo,18.9722351,72.8203423
+Mumbai,Vasai West,19.385748,72.829894
+Mumbai,Vasai east,19.4036749,72.8257906
+Mumbai,Malad East,19.1860219,72.8563181
+Mumbai,Colaba,18.915091,72.8259691
+Mumbai,Thane East,19.0428922,73.0226767
+Mumbai,Nalasopara East,19.4174424,72.8175975
+Mumbai,Deonar,19.0475502,72.9051895
+Mumbai,Nahur East,19.1550738,72.9469187
+Mumbai,Sanpada,19.0659774,73.0095329
+Mumbai,Sector 21 Kamothe,19.0173837,73.0954838
+Mumbai,Saphale,19.5771316,72.8218812
+Mumbai,Kasheli,19.2362651,73.0147061
+Mumbai,Juinagar,19.0559456,73.0182495
+Mumbai,Worli,19.0117388,72.8178706
+Mumbai,Panch Pakhdi,19.0781806,72.8677752
+Mumbai,Mazagaon,18.9671362,72.8397279
+Mumbai,Hiranandani Estates,19.0781806,72.8677752
+Mumbai,Belapur,19.0051696,73.0282853
+Mumbai,Vichumbe,18.9904678,73.1279357
+Mumbai,Bandra East,19.0616565,72.8498111
+Mumbai,Sector 17 Ulwe,18.9707794,73.0215336
+Mumbai,Sector 23 Ulwe,18.9707794,73.0215336
+Mumbai,Nalasopara West,19.012455,72.835058
+Mumbai,Mahalaxmi,18.9825203,72.8242196
+Mumbai,Sector 20 Kamothe,19.0173837,73.0954838
+Mumbai,Dadar East,19.0162531,72.8522274
+Mumbai,Sector 19 Kamothe,19.0173837,73.0954838
+Mumbai,Shahapur,19.453876,73.327579
+Mumbai,Sector 30 Kharghar,19.0525298,73.0735111
+Mumbai,Asangaon,19.4399615,73.3081462
+Mumbai,Vikroli East,19.1252708,72.9284744
+Mumbai,Mira Road,19.1878962,72.8365955
+Mumbai,Kanjurmarg East,19.124102,72.9385562
+Mumbai,Rambaug,19.2170731,72.8522143
+Mumbai,Sector-12 Kamothe,19.0173837,73.0954838
+Mumbai,Juhu,19.1070215,72.8275275
+Mumbai,Ville Parle West,19.1159409,72.8312863
+Mumbai,Mazgaon,18.9697337,72.8406201
+Mumbai,Virar East,19.4579689,72.8142138
+Mumbai,Khar West,19.0752179,72.8337907
+Mumbai,Sector 8 New panvel,19.0594069,72.9602962
+Mumbai,Rabale,19.1366355,73.0027824
+Mumbai,Bhayandar West,19.3101847,72.8526988
+Mumbai,Sector 20 Ulwe,18.9707794,73.0215336
+Mumbai,Sector 22 Kamothe,19.0173837,73.0954838
+Mumbai,Sector 21 Nerul,19.0370909,73.0233188
+Mumbai,Bandra Kurla Complex,19.067115,72.8657245
+Mumbai,Sector 14 Vashi,19.0318761,72.8882146
+Mumbai,Mumbai Central,18.9695855,72.8193152
+Mumbai,Virar West,19.4533576,72.8057966
+Mumbai,Sector 11 Koparkhairane,19.106806,73.0009987
+Mumbai,Unnat Nagar,19.1619,72.8425
+Mumbai,Diva,19.2300117,73.0281438
+Mumbai,Palava,19.1646091,73.1127841
+Mumbai,Dombivali East,19.2140507,73.0998038
+Mumbai,Sector-14 Koparkhairane,19.1055927,72.9982432
+Mumbai,Greater Khanda,19.0128151,73.0992675
+Mumbai,Sector-35D Kharghar,19.0525298,73.0735111
+Mumbai,Umroli,19.7557614,72.7604506
+Mumbai,Sector-9 Ulwe,18.9707794,73.0215336
+Mumbai,Govandi,19.0553688,72.9150702
+Mumbai,vile parle west,19.103908,72.840301
+Mumbai,MATUNGA WEST,19.0317259,72.8433917
+Mumbai,Sector-3 Ulwe,18.9707794,73.0215336
+Mumbai,kasaradavali thane west,19.0781806,72.8677752
+Mumbai,Kurla East,19.0628944,72.8825604
+Mumbai,Pestom Sagar Colony,19.0692541,72.9019227
+Mumbai,Sector 12 Kharghar,19.0448864,73.0643216
+Mumbai,Police Colony,19.0470382,72.842896
+Mumbai,Dahisar West,19.248875,72.852959
+Mumbai,Marine Lines,18.945764,72.8237193
+Mumbai,Sector 19 Kharghar,19.0468627,73.0814208
+Mumbai,Kalher,19.2470586,73.0162096
+Mumbai,Hindu Colony,19.0199623,72.8478929
+Mumbai,Dahisar East,19.2486925,72.8640593
+Mumbai,Sector 9 Vashi,19.0318761,72.8882146
+Mumbai,Khardi,19.5848248,73.388417
+Mumbai,Babulnath Road,19.0781806,72.8677752
+Mumbai,Sector 21 Kharghar,19.0525298,73.0735111
+Mumbai,Dharavi,19.044463,72.8586177
+Mumbai,Vasind,19.4115443,73.2691755
+Mumbai,Tilak Nagar,19.0657855,72.8904702
+Mumbai,Ashok nagar,19.0529955,72.8797876
+Mumbai,Antop Hill,19.0301805,72.8669504
+Mumbai,Peddar Road,18.97538,72.8090732
+Mumbai,Kamathipura,18.9653224,72.8264349
+Mumbai,Usarghar Gaon,19.182137,73.070512
+Mumbai,Ambarnath,19.136208,72.816827
+Mumbai,Patlipada,19.2493501,72.9760694
+Mumbai,Vevoor,19.0781806,72.8677752
+Mumbai,Shelu,20.3972518,77.2311511
+Mumbai,Kurla West,19.0686026,72.876583
+Mumbai,Goregaon,19.1648688,72.8495492
+Mumbai,Naupada,19.0829619,72.8889865
+Mumbai,Bhoiwada,19.0050981,72.846061
+Mumbai,Sector 7 Kharghar,19.0341874,73.0677397
+Mumbai,Roadpali,19.0392786,73.0992311
+Mumbai,Sector-9 Kamothe,19.0173837,73.0954838
+Mumbai,Borivali,19.229068,72.8573628
+Mumbai,Badlapur,19.1666237,73.2389064
+Mumbai,Khanda Colony,19.0098345,73.1081097
+Mumbai,Dombivli (West),19.2221822,73.0809274
+Mumbai,GTB Nagar,19.0380048,72.8643455
+Mumbai,Bandra,19.0549792,72.8402203
+Mumbai,kandivali,19.2041136,72.8517376
+Mumbai,Mahavir Nagar,19.2149882,72.8378643
+Mumbai,Churchgate,18.9354797,72.8271741
+Mumbai,Pali Hill,19.0649126,72.8270326
+Mumbai,Manpada,19.2314156,72.9738156
+Mumbai,Sector-50 Seawoods,19.0097792,73.0170705
+Mumbai,Uttan,19.2532885,72.7904864
+Mumbai,Gauripada,19.2492992,73.1493443
+Mumbai,Gandhar Nagar,19.2615338,73.1352995
+Mumbai,Mahim West,19.0498954,72.8375028
+Mumbai,Warai,19.0739171,73.3509648
+Mumbai,mumbai,19.054999,72.8692035
+Mumbai,Khatiwali,19.0686026,72.876583
+Mumbai,Chandivali,19.1091482,72.8945793
+Mumbai,Mumbra,19.2126187,73.0073993
+Mumbai,Chembur East,19.0477777,72.8780364
+Mumbai,Malabar Hill,18.9581616,72.8033665
+Mumbai,sector,19.028923,72.8666936
+Mumbai,Uran,19.0375563,73.0290014
+Mumbai,Manjarli,19.1745451,73.2375331
+Mumbai,Ghodbunder Road,19.2335556,72.9759463
+Mumbai,Mulund,19.1721762,72.9562383
+Mumbai,Sector 18 Kharghar,19.0452903,73.0796201
+Mumbai,Palidevad,19.0686026,72.876583
+Mumbai,Juhu Scheme,19.1111725,72.8297487
+Mumbai,Adaigaon,19.0686026,72.876583
+Mumbai,Versova,19.1302521,72.8213775
+Mumbai,Sector-4 New Panvel,19.0594069,72.9602962
+Mumbai,Pen,19.103182,72.8484426
+Mumbai,Sector 6 Kamothe,19.0173837,73.0954838
+Mumbai,Maneklal Estate,19.0686026,72.876583
+Mumbai,L I C Colony,19.2426204,72.8520198
